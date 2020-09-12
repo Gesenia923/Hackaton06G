@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+.nav{
+    padding: 0;
+}
+
+.nav__item{
+    list-style: none;
+    display: inline;
+}
+
+.nav__itemlink{
+    text-decoration: none;
+    float: right;
+    padding: 20px;
+
+}
+
